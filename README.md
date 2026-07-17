@@ -21,12 +21,12 @@ Profit Margin =
 DIVIDE([Total Profit],[Total Sales])
 
 📚 Skills Demonstrated
-Data Cleaning using Power Query
-Data Modeling
-DAX Calculations
-KPI Development
-Data Visualization
-Dashboard Design
-Business Analysis
-Interactive Reporting
-Data Storytelling
+Data Cleaning using Power Query,
+Data Modeling,
+DAX Calculations,
+KPI Development,
+Data Visualization,
+Dashboard Design,
+Business Analysis,
+Interactive Reporting,
+Data Storytelling.
